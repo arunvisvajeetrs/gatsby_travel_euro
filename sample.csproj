@@ -4,7 +4,11 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
-    <Version>1.0.0</Version>
+    <Version>
+    <!-- x-release-please-version -->
+    1.0.0
+    <!-- x-release-please-end -->
+    </Version>
     <ProjectGuid>{FDD11759-02FA-44BF-84C6-2F5B2AA5B6BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
