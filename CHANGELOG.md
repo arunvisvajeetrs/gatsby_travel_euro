@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/v1.0.0...v1.1.0) (2025-04-24)
+
+
+### Features
+
+* try adding generic filetype ([6fdac96](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/6fdac968095679340e0630c049886eb8a307dd2f))
+
 ## 1.0.0 (2025-04-24)
 
 
