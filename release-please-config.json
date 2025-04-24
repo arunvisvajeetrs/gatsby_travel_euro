@@ -1,9 +1,15 @@
-{ 
-    "release-type": "simple",
-    "include-v-in-tag": false,
-    "version-file": {
-    "path": "sample.csproj",
-    "type": "xml",
-    "xpath": "/Project/PropertyGroup/Version"
+{
+  "release-type": "simple",
+  "include-v-in-tag": false,
+  "packages": {
+    ".": {
+      "extra-files": [
+        {
+          "path": "sample.csproj",
+          "type": "xml",
+          "xpath": "/Project/PropertyGroup/Version"
+        }
+      ]
+    }
   }
 }
