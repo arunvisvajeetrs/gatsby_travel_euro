@@ -1,15 +1,11 @@
 {
   "release-type": "simple",
   "include-v-in-tag": false,
-  "packages": {
-    ".": {
-      "extra-files": [
-        {
-          "path": "sample.csproj",
-          "type": "xml",
-          "xpath": "/Project/PropertyGroup/Version"
-        }
-      ]
+  "extra-files": [
+    {
+      "path": "sample.csproj",
+      "type": "xml",
+      "xpath": "/Project/PropertyGroup/Version"
     }
-  }
+  ]
 }
