@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/v1.1.0...1.1.1) (2025-04-25)
+
+
+### Bug Fixes
+
+* damn it ([fb17f29](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/fb17f2950a1f57ae235c917d6d3eae8c22996ce9))
+
 ## [1.1.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/v1.0.0...v1.1.0) (2025-04-25)
 
 
