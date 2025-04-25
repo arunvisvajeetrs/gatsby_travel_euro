@@ -6,8 +6,7 @@
       "extra-files": [
         {
           "path": "sample.csproj",
-          "type": "generic",
-          "xpath": "/Project/PropertyGroup/Version"
+          "type": "generic"
         }
       ]
     }
