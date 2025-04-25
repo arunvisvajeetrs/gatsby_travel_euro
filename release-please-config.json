@@ -1,5 +1,5 @@
 {
-  "realease-mode": "simple",
+  "realease-type": "simple",
   "include-v-in-tag": false,
   "packages": {
     ".": {
