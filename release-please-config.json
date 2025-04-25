@@ -1,6 +1,7 @@
 {
   "realease-type": "simple",
   "include-v-in-tag": false,
+  "package-name": "sample",
   "packages": {
     ".": {
       "extra-files": [
