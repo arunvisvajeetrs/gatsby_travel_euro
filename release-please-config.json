@@ -1,10 +1,14 @@
 {
-  "release-type": "node",
-  "include-v-in-tag": false,
-  "extra-files": [
-    {
-      "path": "sample.csproj",
-      "type": "generic"
+  "packages": {
+    ".": {
+      "release-type": "node",
+      "include-v-in-tag": false,
+      "extra-files": [
+        {
+          "path": "sample.csproj",
+          "type": "generic"
+        }
+      ]
     }
-  ]
+  }
 }
