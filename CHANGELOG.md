@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.1.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.0.0...v2.1.0) (2025-04-26)
+
+
+### Features
+
+* Add version file ([bc4a08d](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/bc4a08d2c6e64b0507e36eab5b4dcf3d4dbfb7e3))
+* try again without manifest and release-type as action input ([3f83f39](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/3f83f3919f8172e67c4e839925def25748c1eb9f))
+
+
+### Bug Fixes
+
+* explicit manifest file ([aa83a87](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/aa83a87b6abfb38a4227eed1fddbb2de7e9e2227))
+* root config ([f5404a3](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/f5404a3a8d85ea77a1e56a8ff425f4e11aa4d25c))
+
 ## [2.0.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/1.1.1...2.0.0) (2025-04-25)
 
 
