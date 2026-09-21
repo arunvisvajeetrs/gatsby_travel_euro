@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.2.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.1.0...2.2.0) (2026-09-21)
+
+
+### Features
+
+* Astro is better ([3ae2f38](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/3ae2f38e22dda8db902e9ee348119c5f7cf47a92))
+* final one as per gpt ([509f792](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/509f7925a89e3026d648250f848d956049370c4b))
+
+
+### Bug Fixes
+
+* release please config ([961c48e](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/961c48e62230817feb6e682552f5a766ad9fab19))
+* rem id in release yaml ([153e587](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/153e5874781d444080e5ebfaf0f8c4f7f14201a0))
+
 ## [2.1.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.0.0...2.1.0) (2026-09-21)
 
 
