@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.2](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.2.1...2.2.2) (2026-09-21)
+
+
+### Bug Fixes
+
+* avoid v in release name ([9ebc7a4](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/9ebc7a46ec9fa747b910210eea48d5ccc9d61173))
+
 ## [2.2.1](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.2.0...2.2.1) (2026-09-21)
 
 
