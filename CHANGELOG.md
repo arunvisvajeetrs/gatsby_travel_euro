@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.2.0...2.2.1) (2026-09-21)
+
+
+### Bug Fixes
+
+* revert to package level config ([dff9e4a](https://github.com/arunvisvajeetrs/gatsby_travel_euro/commit/dff9e4aa1baa7127a502c43fa3f52fde72fcc49c))
+
 ## [2.2.0](https://github.com/arunvisvajeetrs/gatsby_travel_euro/compare/2.1.0...2.2.0) (2026-09-21)
 
 
